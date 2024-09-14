@@ -31,7 +31,7 @@ In addition, we incorporate **object detection** with **MobileNet SSD v3** to id
 - MobileNet SSD v3 model files
 - Matplotlib (for visualization)
 
-##Model Files
+## Model Files
 Download the pre-trained MobileNet SSD v3 model from [here](https://colab.research.google.com/drive/1tPeFIqipBS5pvOWW3ik0kmvREGdS0AXG?usp=sharing).
 
 ## Installation
